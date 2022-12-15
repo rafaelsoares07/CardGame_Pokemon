@@ -22,4 +22,4 @@ Além do Card Game você tem acesso a uma Pokédex que você pode usar para sabe
 ## :computer: Tecnologias e Libs utilizadas:
 - React Native
 - TypeScript
-
+- Expo 
